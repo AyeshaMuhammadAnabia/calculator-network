@@ -11,6 +11,10 @@
     margin-bottom: 10px;
     text-align: right;
 }
+#main-display{
+    font-size: 23px;
+    font-weight: bold;
+}
 .btn{
     font-size: 20px;
     cursor: pointer;
